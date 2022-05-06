@@ -1,0 +1,15 @@
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\obj\Debug\net6.0\AcademyWeek2.csproj.AssemblyReference.cache
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\obj\Debug\net6.0\AcademyWeek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\obj\Debug\net6.0\AcademyWeek2.AssemblyInfoInputs.cache
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\obj\Debug\net6.0\AcademyWeek2.AssemblyInfo.cs
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\obj\Debug\net6.0\AcademyWeek2.csproj.CoreCompileInputs.cache
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\bin\Debug\net6.0\AcademyWeek2.exe
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\bin\Debug\net6.0\AcademyWeek2.deps.json
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\bin\Debug\net6.0\AcademyWeek2.runtimeconfig.json
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\bin\Debug\net6.0\AcademyWeek2.dll
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\bin\Debug\net6.0\AcademyWeek2.pdb
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\obj\Debug\net6.0\AcademyWeek2.dll
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\obj\Debug\net6.0\refint\AcademyWeek2.dll
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\obj\Debug\net6.0\AcademyWeek2.pdb
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\obj\Debug\net6.0\AcademyWeek2.genruntimeconfig.cache
+C:\Users\LittleManOfAir\source\repos\AcademyWeek2.Test\AcademyWeek2\obj\Debug\net6.0\ref\AcademyWeek2.dll

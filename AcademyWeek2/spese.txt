@@ -1,0 +1,9 @@
+﻿08/07/2021;Viaggio;TrasfertaCliente;450
+21/09/2020;Alloggio;TrasfertaCliente;300
+21/03/2017;Vitto;TrasfertaCliente;1001
+15/06/2019;Altro;TrasfertaCliente;2501
+12/04/2022;Viaggio;TrasfertaCliente;159
+22/10/2021;Vitto;TrasfertaCliente;654
+10/01/2022;Altro;TrasfertaCliente;342
+09/07/2021;Alloggio;TrasfertaCliente;952
+02/02/2021;Alloggio;TrasfertaCliente;164
